@@ -1,0 +1,55 @@
+form {
+    width: 850px;
+    margin: auto 20rem auto 25rem;
+}
+
+legend {
+    color: rgb(13, 63, 12);
+    font: 1rem verdana;
+    font-weight: bold;
+}
+
+p {
+    color: #fff;
+    font: 1rem verdana;
+    font-weight: bolder;
+}
+
+fieldset {
+    border: 2px solid #fff;
+    margin: 20px;
+}
+
+fieldset #sexo {
+    width: 250px;
+    font: 1.3rem verdana;
+}
+
+input.btn {
+    background-color: black;
+    color: #fff;
+    padding: 7px;
+    margin: 5px;
+    font: 1.3rem verdana;
+    border: none;
+}
+
+input.btn:hover {
+    background-color: rgb(9, 46, 25);
+    color: black;
+}
+
+fieldset#usuario {
+    background: url("imagens/icon-contato.png") no-repeat 95% 95%;
+
+}
+
+fieldset#endereco {
+    background: url("imagens/icon-endereco.png") no-repeat 95% 95%;
+
+}
+
+fieldset#mensagem {
+    background: url("imagens/icon-mensagem.png") no-repeat 95% 95%;
+
+}

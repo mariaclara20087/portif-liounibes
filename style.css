@@ -1,0 +1,128 @@
+body {
+      background-color:rgb(116, 231, 147);
+      margin:0;
+}
+#menu{
+    background-color: rgb(82, 184, 138);
+    width: 300px;
+    height: 1250px;
+    text-align: center;
+    box-shadow: 5px 0px 5px rgba(87, 180, 80, 0.8) ;
+    margin-top: -18px;
+}
+.logo{
+    width: 150px;
+    margin-top: 50px;
+    border: 6px double; color: #98d9b8;
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px rgba(175, 255, 219, 0.8)
+}
+h1, h2{
+   font-size: 1,5rem; 
+   font-family: sans-serif;
+   color: #013807;
+   text-shadow: 5px 0px 10px rgba(76, 185, 94, 0.8);
+}
+.links{
+text-decoration: none;
+color: rgb(0, 0, 0);
+font-size: 25px;
+display: flex;
+flex-direction: column;
+transition: all 0.7s ease-in;
+}
+.links:hover{background-color: rgb(112, 216, 148);
+    color: rgb(0, 128, 13) ;
+    font-weight: 500;
+
+}
+header{
+    float: left;
+}
+.info01{
+   background-color: rgb(180, 242, 211);
+    margin: 1rem 1rem 1rem 21rem;
+    padding: 1rem;
+    border-radius: 25px;
+}
+.info02{
+    background-color: rgb(180, 242, 237);
+     margin: 1rem 1rem 1rem 1rem;
+     padding: 1rem;
+     border-radius: 25px;
+     width: 200px;
+     height: 200px;
+ }
+ .info03{
+    background-color: rgb(180, 242, 207);
+     margin: 1rem 1rem 1rem 1rem;
+     padding: 1rem;
+     border-radius: 25px;
+     width: 200px;
+     height: 200px;
+ }
+ .info04{
+    background-color: rgb(180, 242, 180);
+     margin: 1rem 1rem 1rem 1rem;
+     padding: 1rem;
+     border-radius: 25px;
+     width: 200px;
+     height: 200px;
+ }
+ .info05{
+    background-color: rgb(180, 242, 200);
+     margin: 1rem 1rem 1rem 1rem;
+     padding: 1rem;
+     border-radius: 25px;
+     width: 200px;
+     height: 200px;
+ }
+ .info06{
+    background-color: rgb(180, 242, 229);
+     margin: 1rem 1rem 1rem 1rem;
+     padding: 1rem;
+     border-radius: 25px;
+     width: 200px;
+     height: 200px;
+ }
+ .info07{
+    background-color: rgb(180, 242, 202);
+     margin: 1rem 1rem 1rem 1rem;
+     padding: 1rem;
+     border-radius: 25px;
+     width: 200px;
+     height: 200px;
+ }
+ .info08{
+    background-color: rgb(186, 245, 184);
+     margin: 1rem 1rem 1rem 1rem;
+     padding: 1rem;
+     border-radius: 25px;
+     width: 200px;
+     height: 200px;
+ }
+ #conteudo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+ footer{
+    background-color: rgb(38, 167, 81);
+    font-size: 1.8rem;
+    text-align: center;
+    margin: -5px;
+    padding: 0.5rem;
+    clear:both;
+ }
+ p{
+    
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+ }
+ h3{
+    text-align: center;
+    font-size: 1.5rem;
+    font-family:sans-serif ;
+    text-shadow: 5px 5px 10px;
+ }
